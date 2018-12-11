@@ -2,7 +2,7 @@
 DAC pretvorba
 -----------------------------------
 ODGOVORI:
-2. b.) 2 izhoda.
+2. b.) 2 DAC izhoda.
 c.) od 0V do 3.3V.
 d.) PA4.
 e.) Output buffer, Trigger.
